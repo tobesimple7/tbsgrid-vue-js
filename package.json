@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "tbsgrid": "^0.2.2",
+    "tbsgrid": "^0.2.14",
     "vue": "^3.4.29"
   },
   "devDependencies": {
